@@ -1,0 +1,13 @@
+Modeling Equivalent Circuits for Experimental Time, Voltage, and Current Data
+
+We designed a program with a graphical user interface for plotting experimental data for a supercapacitor 
+device as well as modeling the system as an RC circuit, spitting out a fitted plot and values for the 
+resistances and capacitance included in the model circuit. 
+ 
+
+
+Sabrina Ball: sball@mit.edu
+Brendan Nagle: Bf.nagle@gmail.com
+Katie Van Aken: ktvanaken@gmail.com
+
+

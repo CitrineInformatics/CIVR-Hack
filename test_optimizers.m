@@ -1,0 +1,1 @@
+[RsRpC2f,errf] = fminunc(@(Rs) LossFun(If,tp,(Rs,Rp,C)),Rs1);
